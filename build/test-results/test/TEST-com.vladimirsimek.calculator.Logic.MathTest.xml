@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.vladimirsimek.calculator.Logic.MathTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-05-21T07:51:13" hostname="cervenyjezdec" time="0.029">
+  <properties/>
+  <testcase name="subtraction()" classname="com.vladimirsimek.calculator.Logic.MathTest" time="0.02"/>
+  <testcase name="factorial()" classname="com.vladimirsimek.calculator.Logic.MathTest" time="0.001"/>
+  <testcase name="addition()" classname="com.vladimirsimek.calculator.Logic.MathTest" time="0.001"/>
+  <testcase name="powers()" classname="com.vladimirsimek.calculator.Logic.MathTest" time="0.001"/>
+  <testcase name="division()" classname="com.vladimirsimek.calculator.Logic.MathTest" time="0.0"/>
+  <testcase name="multiplication()" classname="com.vladimirsimek.calculator.Logic.MathTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

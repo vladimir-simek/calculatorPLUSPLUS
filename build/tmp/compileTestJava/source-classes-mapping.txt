@@ -1,0 +1,2 @@
+com/vladimirsimek/calculator/Logic/MathTest.java
+ com.vladimirsimek.calculator.Logic.MathTest

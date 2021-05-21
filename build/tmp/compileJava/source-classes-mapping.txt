@@ -1,0 +1,8 @@
+com/vladimirsimek/calculator/Main.java
+ com.vladimirsimek.calculator.Main
+com/vladimirsimek/calculator/Cli/Default.java
+ com.vladimirsimek.calculator.Cli.Default
+com/vladimirsimek/calculator/Logic/Math.java
+ com.vladimirsimek.calculator.Logic.Math
+com/vladimirsimek/calculator/Logic/Utilities.java
+ com.vladimirsimek.calculator.Logic.Utilities
